@@ -4,6 +4,9 @@ body {
 h1 {
   color: blue;
 }
+h1.monkey{
+  font-size: 5;
+}
 p {
   color: red;
 }
