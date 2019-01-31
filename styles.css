@@ -5,11 +5,11 @@ h1 {
   color: blue;
 }
 h1.monkey{
-  font-size: 5;
+  font-size: 50px;
 }
 p {
   color: red;
 }
 #p01 {
-  font-size: 50px;
+  font-size: 25px;
 }
