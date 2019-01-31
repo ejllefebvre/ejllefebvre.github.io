@@ -5,6 +5,7 @@ h1 {
   color: blue;
 }
 h1.monkey{
+  font-style: italic;
   color: red;
 }
 p {
